@@ -1,5 +1,5 @@
 # CN-The-Complete-Guide-to-Building-Skill-for-Claude
-本仓库包含Claude官方发布的[《The-Complete-Guide-to-Building-Skill-for-Claude》].(https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)的中文翻译与排版稿，详细介绍 Skill 结构、设计模式、测试迭代、分发方案及故障排查。适合希望快速上手 Claude Skill 开发的个人和团队。
+本仓库包含Claude官方发布的[《The-Complete-Guide-to-Building-Skill-for-Claude》](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)的中文翻译与排版稿，详细介绍 Skill 结构、设计模式、测试迭代、分发方案及故障排查。适合希望快速上手 Claude Skill 开发的个人和团队。
 
 ## 核心内容总结
 
